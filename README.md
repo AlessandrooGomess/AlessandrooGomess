@@ -1,8 +1,8 @@
-# Opa, me chamo Alessandro Henrique
+# Hey there, welcome to my profile.
 
 <img src="https://github-readme-stats.vercel.app/api?username=AlessandroGomess&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub do Alessandro" align="right" height="170"/>
 
-Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonado por tecnologia e desenvolvimento web. Atualmente focado em construir aplicações modernas, escaláveis e com ótima experiência de usuário, explorando o ecossistema JavaScript/TypeScript tanto no front-end quanto no back-end.
+**Systems Analysis and Development (ADS)** student, passionate about technology and web development.
 
 ---
 
