@@ -1,12 +1,12 @@
 # Hey there, welcome to my profile.
 
-<img src="https://github-readme-stats.vercel.app/api?username=AlessandroGomess&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub do Alessandro" align="right" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AlessandroGomess&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats of Alessandro" align="right" height="170"/>
 
 **Systems Analysis and Development (ADS)** student, passionate about technology and web development.
 
 ---
 
-### 💻 Tecnologias e Ferramentas
+### 💻 Technologies and Tools
 
 <div align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
@@ -25,15 +25,15 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlessandroGomess&theme=tokyonight&hide_border=true" alt="Streak do GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlessandroGomess&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📫 Conecte-se comigo
+### 📫 Connect with me
 
 * **E-mail:** alessandrodarocha89@gmail.com
 * **GitHub:** [@AlessandroGomess](https://github.com/AlessandroGomess)
