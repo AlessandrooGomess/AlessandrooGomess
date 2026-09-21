@@ -25,6 +25,16 @@
 
 ---
 
+### 🚀 Featured Project
+
+<p align="left">
+  <a href="https://github.com/AlessandrooGomess/PrefeituraDeGoiana-Epacializacao">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlessandrooGomess&repo=PrefeituraDeGoiana-Epacializacao&theme=tokyonight&hide_border=true" alt="PrefeituraDeGoiana-Epacializacao Card" />
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p>
