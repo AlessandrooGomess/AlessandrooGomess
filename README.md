@@ -1,4 +1,4 @@
-# Olá, mundo! Sou o Alessandro Henrique 👋
+# Opa, me chamo Alessandro Henrique
 
 <img src="https://github-readme-stats.vercel.app/api?username=AlessandroGomess&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub do Alessandro" align="right" height="170"/>
 
