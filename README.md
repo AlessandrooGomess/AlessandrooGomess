@@ -1,10 +1,13 @@
 # Hey there, welcome to my profile.
 
-Systems Analysis and Development (ADS) student, passionate about technology and web development.
+<!-- Typing Animation -->
+<a href="https://github.com/AlessandrooGomess">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E53935&center=false&vCenter=false&width=800&lines=Systems+Analysis+and+Development+(ADS)+student.;Passionate+about+technology+and+web+development.;Focusing+on+modern+and+efficient+solutions." alt="Typing SVG" />
+</a>
 
 ---
 
-## Technologies and Tools
+## 🛠️ Technologies and Tools
 
 <div align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
@@ -36,6 +39,9 @@ Systems Analysis and Development (ADS) student, passionate about technology and 
   <a href="https://github.com/AlessandrooGomess/PrefeituraDeGoiana-Epacializacao">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlessandrooGomess&repo=PrefeituraDeGoiana-Epacializacao&bg_color=0D1117&title_color=E53935&text_color=C9D1D9&icon_color=E53935&border_color=E53935&border_radius=10" alt="Prefeitura de Goiana Project" />
   </a>
+</p>
+<p align="center">
+  <i>*Note: If the card above does not appear, ensure the repository is public and the name is spelled correctly.</i>
 </p>
 
 ---
