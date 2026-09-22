@@ -12,7 +12,7 @@ Systems Analysis and Development (ADS) student. Passionate about technology and 
 
 ---
 
-## 🛠️ Technologies and Tools
+## Technologies and Tools
 
 <div align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
@@ -31,10 +31,10 @@ Systems Analysis and Development (ADS) student. Passionate about technology and 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
-  <h3>📍 Prefeitura de Goiana - Espacialização</h3>
+  <h3>Prefeitura de Goiana - Espacialização</h3>
   <a href="https://github.com/AlessandrooGomess/PrefeituraDeGoiana-Epacializacao">
     <img src="https://github.com/user-attachments/assets/1c1d9b80-5f16-4a06-9a7f-5d7d402bae1d" alt="Prefeitura de Goiana - Espacialização" width="800" style="border-radius: 10px;" />
   </a>
@@ -45,7 +45,7 @@ Systems Analysis and Development (ADS) student. Passionate about technology and 
 
 ## 📊 Analytics
 
-### 🏆 Trophies
+### Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=AlessandrooGomess&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
@@ -65,14 +65,14 @@ Systems Analysis and Development (ADS) student. Passionate about technology and 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlessandrooGomess&background=0D1117&ring=E53935&fire=E53935&currStreakLabel=E53935&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&hide_border=true" alt="GitHub Streak" />
 </p>
 
-### 📈 Activity Graph
+### Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlessandrooGomess&bg_color=0D1117&color=E53935&line=E53935&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
 
-## 🐍 Contributions
+## Contributions
 
 <p align="center">
   <picture>
