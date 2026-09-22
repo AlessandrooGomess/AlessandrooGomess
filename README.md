@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=false&vCenter=false&width=800&lines=Hey+there,+welcome+to+my+profile." alt="Typing SVG" />
 </a>
 
-Systems Analysis and Development (ADS) student. Passionate about technology and web development. Focusing on modern and efficient solutions.
+Systems Analysis and Development (ADS) student. Passionate about technology and web development.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/alessandro-darocha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
