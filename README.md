@@ -23,12 +23,6 @@ Systems Analysis and Development (ADS) student, passionate about technology and 
 
 ---
 
-## 👨‍💻 About Me
-
-I am a developer focused on building modern and efficient solutions. Currently, I am an undergraduate student in Systems Analysis and Development (ADS) and a Technology Resident at Porto Digital, experiencing practical collaborative project development in squads, from ideation to implementation.
-
-I constantly seek to improve my skills, focusing on application performance and delivering code that makes a real impact.
-
 <p align="left">
   <a href="https://www.linkedin.com/in/alessandro-darocha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:alessandrodarocha89@gmail.com"><img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=E53935" alt="Email"></a>
