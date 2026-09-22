@@ -1,9 +1,14 @@
-# Hey there, welcome to my profile.
-
-<!-- Typing Animation -->
+<!-- Typing Animation Header -->
 <a href="https://github.com/AlessandrooGomess">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFFFFF&center=false&vCenter=false&width=800&lines=Systems+Analysis+and+Development+(ADS)+student.;Passionate+about+technology+and+web+development.;Focusing+on+modern+and+efficient+solutions." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=false&vCenter=false&width=800&lines=Hey+there,+welcome+to+my+profile." alt="Typing SVG" />
 </a>
+
+Systems Analysis and Development (ADS) student. Passionate about technology and web development. Focusing on modern and efficient solutions.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/alessandro-darocha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:alessandrodarocha89@gmail.com"><img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=E53935" alt="Email"></a>
+</p>
 
 ---
 
@@ -26,23 +31,15 @@
 
 ---
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/alessandro-darocha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:alessandrodarocha89@gmail.com"><img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=E53935" alt="Email"></a>
-</p>
-
----
-
 ## 🚀 Featured Projects
 
-<p align="center">
+<div align="center">
+  <h3>📍 Prefeitura de Goiana - Espacialização</h3>
   <a href="https://github.com/AlessandrooGomess/PrefeituraDeGoiana-Epacializacao">
     <img src="https://github.com/user-attachments/assets/1c1d9b80-5f16-4a06-9a7f-5d7d402bae1d" alt="Prefeitura de Goiana - Espacialização" width="800" style="border-radius: 10px;" />
   </a>
-</p>
-<p align="center">
-  <b>Georeferencing and public works management platform for the Municipality of Goiana.</b>
-</p>
+  <p><b>Georeferencing and public works management platform for the Municipality of Goiana.</b></p>
+</div>
 
 ---
 
