@@ -2,7 +2,7 @@
 
 <!-- Typing Animation -->
 <a href="https://github.com/AlessandrooGomess">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=000000&center=false&vCenter=false&width=800&lines=Systems+Analysis+and+Development+(ADS)+student.;Passionate+about+technology+and+web+development.;Focusing+on+modern+and+efficient+solutions." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFFFFF&center=false&vCenter=false&width=800&lines=Systems+Analysis+and+Development+(ADS)+student.;Passionate+about+technology+and+web+development.;Focusing+on+modern+and+efficient+solutions." alt="Typing SVG" />
 </a>
 
 ---
