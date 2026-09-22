@@ -37,11 +37,11 @@
 
 <p align="center">
   <a href="https://github.com/AlessandrooGomess/PrefeituraDeGoiana-Epacializacao">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlessandrooGomess&repo=PrefeituraDeGoiana-Epacializacao&bg_color=0D1117&title_color=E53935&text_color=C9D1D9&icon_color=E53935&border_color=E53935&border_radius=10" alt="Prefeitura de Goiana Project" />
+    <img src="https://github.com/user-attachments/assets/1c1d9b80-5f16-4a06-9a7f-5d7d402bae1d" alt="Prefeitura de Goiana - Espacialização" width="800" style="border-radius: 10px;" />
   </a>
 </p>
 <p align="center">
-  <i>*Note: If the card above does not appear, ensure the repository is public and the name is spelled correctly.</i>
+  <b>Georeferencing and public works management platform for the Municipality of Goiana.</b>
 </p>
 
 ---
