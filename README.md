@@ -1,6 +1,6 @@
 <!-- Typing Animation Header -->
 <a href="https://github.com/AlessandrooGomess">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=false&vCenter=false&width=800&lines=Hey+there,+welcome+to+my+profile." alt="Typing SVG" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=false&vCenter=false&width=800&lines=Hey+there,+welcome+to+my+profile." alt="Typing SVG" width="800" />
 </a>
 
 Systems Analysis and Development (ADS) student. Passionate about technology and web development.
@@ -36,7 +36,7 @@ Systems Analysis and Development (ADS) student. Passionate about technology and 
 <div align="center">
   <h3>Prefeitura de Goiana - Espacialização</h3>
   <a href="https://github.com/AlessandrooGomess/PrefeituraDeGoiana-Epacializacao">
-    <img src="https://github.com/user-attachments/assets/1c1d9b80-5f16-4a06-9a7f-5d7d402bae1d" alt="Prefeitura de Goiana - Espacialização" width="100%" style="max-width: 800px; border-radius: 10px;" />
+    <img src="https://github.com/user-attachments/assets/1c1d9b80-5f16-4a06-9a7f-5d7d402bae1d" alt="Prefeitura de Goiana - Espacialização" width="800" />
   </a>
   <p><b>Georeferencing and public works management platform for the Municipality of Goiana.</b></p>
 </div>
@@ -48,21 +48,21 @@ Systems Analysis and Development (ADS) student. Passionate about technology and 
 ### Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AlessandrooGomess&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" width="100%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AlessandrooGomess&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
   </a>
 </p>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlessandrooGomess&show_icons=true&bg_color=0D1117&title_color=E53935&text_color=C9D1D9&icon_color=E53935&hide_border=true&border_radius=10" alt="GitHub Stats" width="100%" style="max-width: 400px; margin-bottom: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandrooGomess&layout=compact&bg_color=0D1117&title_color=E53935&text_color=C9D1D9&hide_border=true&border_radius=10" alt="Top Languages" width="100%" style="max-width: 400px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlessandrooGomess&show_icons=true&bg_color=0D1117&title_color=E53935&text_color=C9D1D9&icon_color=E53935&hide_border=true&border_radius=10" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandrooGomess&layout=compact&bg_color=0D1117&title_color=E53935&text_color=C9D1D9&hide_border=true&border_radius=10" alt="Top Languages" height="165" />
 </div>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlessandrooGomess&background=0D1117&ring=E53935&fire=E53935&currStreakLabel=E53935&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&hide_border=true" alt="GitHub Streak" width="100%" style="max-width: 495px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlessandrooGomess&background=0D1117&ring=E53935&fire=E53935&currStreakLabel=E53935&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&hide_border=true" alt="GitHub Streak" width="495" />
 </p>
 
 ### Activity Graph
